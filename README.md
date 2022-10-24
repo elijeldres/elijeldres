@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @elijeldres from 🇨🇱 🗿🍷
--✈️🌎  Living abroad for the past 5 years 🇺🇸 🤠, 🇳🇿 🥝 🇩🇪 🥨
--📍Berlin- Germany 
-
--🍇🚢 Agricultural engineer by profession with experience in export fruits
+- ✈️🌎  Living abroad for the past 5 years 🇺🇸 🤠, 🇳🇿 🥝 🇩🇪 🥨
+- 📍Berlin- Germany 
+- 🍇🚢 Agricultural engineer by profession with experience in export fruits
 - 👀 I’m interested in a career change to programming and data analytics 
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on in sustainability projects, learning from others and keep traveling
