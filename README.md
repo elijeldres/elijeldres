@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on in sustainability projects, learning from others and keep traveling
 
-- 📫 https://www.instagram.com/jay_ellie_bean/ 
+- 📫 https://www.linkedin.com/in/elijeldres/
+ 
+- 📸 https://www.instagram.com/jay_ellie_bean/ 
 
 <!---
 elijeldres/elijeldres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
