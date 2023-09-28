@@ -4,7 +4,7 @@
 - 🍇🚢 Agricultural engineer by profession with experience in fruits exportation
 - 👀 I’m interested in a career change to programming and data analytics 
 - 🌱 I’m currently learning Python, SQL, GIT
-- 💞️ I’m looking to collaborate on in sustainability projects, learning from others and keep traveling
+- 💞️ I’m looking to collaborate on in sustainability projects, learning from others and keep going
 
 - 📫 https://www.linkedin.com/in/elijeldres/
  
