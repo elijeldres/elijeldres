@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Python, SQL, GIT
 - 💞️ Let's team up to work on sustainability initiatives, exchange insights, and continue to advance towards our goals. If you wish to connect, please don't hesitate to contact me
 
-- 📫 https://www.linkedin.com/in/elijeldres/
+- 📫 [LinkedIn](https://www.linkedin.com/in/elijeldres/)
  
-- 📸 https://www.instagram.com/jay_ellie_bean/ 
+- 📸 [sketch](https://www.instagram.com/jay_ellie_bean/)
 
 <!---
 elijeldres/elijeldres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
