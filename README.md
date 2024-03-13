@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elijeldres from 🇨🇱 🗿🍷
-- ✈️🌎  Living abroad for the past 5 years 🇺🇸 🤠, 🇳🇿 🥝 🇩🇪 🥨
+- ✈️🌎  Living abroad for the past 6 years 🇺🇸 🤠, 🇳🇿 🥝 🇩🇪 🥨
 - 📍now based in Berlin- Germany 
 - 🍇🚢 Agricultural engineer by profession with experience in fruits exportation
 - 👀 I’m interested in a career change to programming and data analytics 
